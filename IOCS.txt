@@ -1,0 +1,4 @@
+zabbix_server_mysql
+saposcol
+bash
+sensecm.exe
